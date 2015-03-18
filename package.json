@@ -5,14 +5,15 @@
 	"description": "Fuller tool: file source",
 	"keywords": ["file", "source", "fuller", "build", "automation"],
 	"author": "Alexey Novikov (http://2dubs.com)",
-	"preferGlobal": true,
-	"private": false,
 	"engines": {
 		"node": "~0.12.0",
 		"iojs": "^1.0.0"
 	},
+	"dependencies": {
+		"fuller-material-file": "~0.3.0"
+	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:fullerjs/fuller-src-file.git"
+		"url": "git@github.com:fullerjs/src-file.git"
 	}
 }
