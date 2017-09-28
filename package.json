@@ -1,9 +1,15 @@
 {
 	"name": "fuller-src-file",
 	"version": "0.3.0",
-	"license" : "MIT",
+	"license": "MIT",
 	"description": "Fuller tool: file source",
-	"keywords": ["file", "source", "fuller", "build", "automation"],
+	"keywords": [
+		"file",
+		"source",
+		"fuller",
+		"build",
+		"automation"
+	],
 	"author": "Alexey Novikov (http://2dubs.com)",
 	"engines": {
 		"node": "~0.12.0",
